@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-12T07:46:24.423324800Z</date>
+  <millis>1676187984423</millis>
+  <nanos>324800</nanos>
+  <sequence>0</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 4, 2, 8, 1]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.548483300Z</date>
+  <millis>1676187984548</millis>
+  <nanos>483300</nanos>
+  <sequence>1</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 4, 2, 1, 8]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.551312100Z</date>
+  <millis>1676187984551</millis>
+  <nanos>312100</nanos>
+  <sequence>2</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 4, 1, 8]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.553307300Z</date>
+  <millis>1676187984553</millis>
+  <nanos>307300</nanos>
+  <sequence>3</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 2, 1, 4, 8]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.553307300Z</date>
+  <millis>1676187984553</millis>
+  <nanos>307300</nanos>
+  <sequence>4</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[2, 3, 1, 4, 8]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.560885200Z</date>
+  <millis>1676187984560</millis>
+  <nanos>885200</nanos>
+  <sequence>5</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[2, 1, 3, 4, 8]</message>
+</record>
+<record>
+  <date>2023-02-12T07:46:24.565932100Z</date>
+  <millis>1676187984565</millis>
+  <nanos>932100</nanos>
+  <sequence>6</sequence>
+  <logger>mylogger</logger>
+  <level>INFO</level>
+  <class>hometwo.TaskTwo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 8]</message>
+</record>
+</log>
